@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="ojdbc6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../instantclient_12_1/ojdbc6.jar!/" />
+      <root url="file://$PROJECT_DIR$/../instantclient_12_1" />
+      <root url="jar://$USER_HOME$/OneDrive/计算机必用资源/新建文件夹/C3P0连接池jar包（完整版）/mchange-commons-java-0.2.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/OneDrive/计算机必用资源/新建文件夹/C3P0连接池jar包（完整版）/c3p0-0.9.5.2-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../instantclient_12_1" recursive="false" />
+  </library>
+</component>

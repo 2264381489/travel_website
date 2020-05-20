@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="c3p0-0.9.5.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/OneDrive/计算机必用资源/新建文件夹/C3P0连接池jar包（完整版）/c3p0-0.9.5.2.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/计算机必用资源/新建文件夹/C3P0连接池jar包（完整版）/mchange-commons-java-0.2.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

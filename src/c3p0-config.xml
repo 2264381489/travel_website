@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<c3p0-config>
+  <default-config>
+    <property name="driverClass">oracle.jdbc.driver.OracleDriver</property>
+    <property name="jdbcUrl">  jdbc:oracle:thin:@192.168.80.10:1521:orcl</property>
+    <property name="user">system</property>
+    <property name="password">aA107824</property>
+    
+    <property name="initialPoolSize">5</property>
+    <!--最大连接数-->
+    <property name="maxPoolSize">10</property>
+    <property name="checkoutTimeout">3000</property>
+  </default-config>
+
+  <named-config name="otherc3p0"> 
+  </named-config>
+<named-config name="otherc3p1">
+  <property name="driverClass">oracle.jdbc.driver.OracleDriver</property>
+  <property name="jdbcUrl">  jdbc:oracle:thin:@192.168.80.10:1521:orcl</property>
+  <property name="user">system</property>
+  <property name="password">aA107824</property>
+
+  <property name="initialPoolSize">5</property>
+  <!--最大连接数-->
+  <property name="maxPoolSize">11</property>
+  <property name="checkoutTimeout">3000</property>
+</named-config>
+</c3p0-config>
